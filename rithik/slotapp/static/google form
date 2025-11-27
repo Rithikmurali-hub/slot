@@ -1,0 +1,25 @@
+<html>
+    <head>
+        <title> Form </title>
+        </head>
+        <body>
+            <form>
+                <label>Registration Check ID</label>
+                <input type="number">
+                <br>
+                <label>Health Care Number</label>
+                <input type="number" required>
+                <br>
+                <label>Registration Location</label>
+                <input type="text">
+                <label>Registration Date</label>
+                <input type="Date">
+                <label>Registration Time</label>
+                <input type="time" required>
+                <label>Patient Name</label>
+                <input type="text">
+                <label>Address</label>
+                <textarea rows="10" cols="20" >
+
+                </textarea>
+
